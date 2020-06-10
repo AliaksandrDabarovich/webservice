@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.iws
+commands.txt
+target/
+log/
+src/screenshots
+
